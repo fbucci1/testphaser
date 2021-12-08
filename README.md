@@ -11,3 +11,12 @@ npm init -y
 
 npm install --save phaser
 
+# Setup after download from git
+
+npm install
+
+Open Visual Studio Code 
+- Open folder where the source code was downloaded
+- Click Go Live button
+
+
